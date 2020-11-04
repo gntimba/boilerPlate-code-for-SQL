@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "sms_system",
+    "host": "127.0.0.1",
+    "dialect": "mariadb",
+    "operatorsAliases": false,
+    "timezone": "+02:00"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "sms_system",
+    "host": "127.0.0.1",
+    "dialect": "mariadb",
+    "operatorsAliases": false,
+    "timezone": "+02:00"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "sms_system",
+    "host": "127.0.0.1",
+    "dialect": "mariadb",
+    "operatorsAliases": false,
+    "timezone": "+02:00"
+  }
+}
